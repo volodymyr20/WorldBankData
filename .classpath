@@ -34,5 +34,13 @@
 	<classpathentry kind="lib" path="D:/Install/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
 	<classpathentry kind="lib" path="D:/Install/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
 	<classpathentry kind="lib" path="D:/Install/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/selenium-server-standalone-2.42.0.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/Other/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Install/cucumber/Other/cucumber-junit-1.2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
